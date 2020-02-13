@@ -25,7 +25,8 @@
 				
 ​	
 ​			4、 变量名、方法名首字母小写，如果名称由多个单词组成，每个单词的首字母都要大写。
-                  	  `int index=0; public void toString(){}`
+                  	  `int index=0;
+			  public void toString(){}`
 
 
 ​			5、 常量名全部大写
